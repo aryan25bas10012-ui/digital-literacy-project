@@ -12,7 +12,7 @@ Branch: B.Tech in Aerospace Engineering
 Batch: 2025 - 2029
 
 📝 Project Overview
-  This repository serves as a comprehensive Digital Literacy Portfolio designed to assist my peers in navigating the professional and technical digital landscape. As a Student Digital Ambassador, I have curated resources across five modules, covering professional branding, technical collaboration, and cyber-safety.
+    This repository serves as a comprehensive Digital Literacy Portfolio designed to assist my peers in navigating the professional and technical digital landscape. As a Student Digital Ambassador, I have curated resources across five modules, covering professional branding, technical collaboration, and cyber-safety.
 
 📂 Portfolio Structure
 
