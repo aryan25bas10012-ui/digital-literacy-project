@@ -18,42 +18,42 @@ Batch: 2025 - 2029
 
 Module 1: Digital Awareness
 
-  Deliverable: An awareness infographic titled "The Digital Professionalism Roadmap."
+    Deliverable: An awareness infographic titled "The Digital Professionalism Roadmap."
   
-  Focus: Understanding digital footprints and how public profiles influence professional opportunities.
+    Focus: Understanding digital footprints and how public profiles influence professional opportunities.
 
 Module 2: Professional Branding
 
-  Deliverables: Verified professional profiles.
+    Deliverables: Verified professional profiles.
 
 Module 3: Coding & Collaboration
 
-  Technical Skill: Completed Beginner Challenge on HackerRank.
+    Technical Skill: Completed Beginner Challenge on HackerRank.
 
-  Community Engagement: Digital Literacy Awareness Quiz (Google Form)
+    Community Engagement: Digital Literacy Awareness Quiz (Google Form)
 
-  Data View: Google Sheet for response tracking. https://forms.gle/yGA2oLUBY2xBTywz8
+    Data View: Google Sheet for response tracking. https://forms.gle/yGA2oLUBY2xBTywz8
 
 Module 4: Professional Communication
 
-  Drafts: Formal email templates for assignment extensions and internship inquiries.
+    Drafts: Formal email templates for assignment extensions and internship inquiries.
 
-  Guidance: Social Media Do's and Don'ts Checklist.
+    Guidance: Social Media Do's and Don'ts Checklist.
 
 Module 5: Cybercrime & Safety
 
-  Case Study: Analysis of CyberBullying.
+    Case Study: Analysis of CyberBullying.
 
-  Resource: 8-Point "Stay Safe Online" Prevention Checklist.
+    Resource: 8-Point "Stay Safe Online" Prevention Checklist.
 
 🛠 Tools Used
 
-  Project Platform: GitHub
+    Project Platform: GitHub
 
-  Designing And Presentation: Canva
+    Designing And Presentation: Canva
 
-  Data Collection: Google Workspace (Forms & Sheets)
+    Data Collection: Google Workspace (Forms & Sheets)
 
-  Coding Plaform: HackerRank
+    Coding Plaform: HackerRank
 
-  Professional Networking: LinkedIn
+    Professional Networking: LinkedIn
