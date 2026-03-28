@@ -17,14 +17,17 @@ Batch: 2025 - 2029
 📂 Portfolio Structure
 
 Module 1: Digital Awareness
+
   Deliverable: An awareness infographic titled "The Digital Professionalism Roadmap."
   
   Focus: Understanding digital footprints and how public profiles influence professional opportunities.
 
 Module 2: Professional Branding
+
   Deliverables: Verified professional profiles.
 
 Module 3: Coding & Collaboration
+
   Technical Skill: Completed Beginner Challenge on HackerRank.
 
   Community Engagement: Digital Literacy Awareness Quiz (Google Form)
@@ -32,16 +35,19 @@ Module 3: Coding & Collaboration
   Data View: Google Sheet for response tracking. https://forms.gle/yGA2oLUBY2xBTywz8
 
 Module 4: Professional Communication
+
   Drafts: Formal email templates for assignment extensions and internship inquiries.
 
   Guidance: Social Media Do's and Don'ts Checklist.
 
 Module 5: Cybercrime & Safety
+
   Case Study: Analysis of CyberBullying.
 
   Resource: 8-Point "Stay Safe Online" Prevention Checklist.
 
 🛠 Tools Used
+
   Project Platform: GitHub
 
   Designing And Presentation: Canva
