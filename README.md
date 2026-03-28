@@ -17,9 +17,9 @@ Role: Student Digital Ambassador
 This repository serves as a comprehensive Digital Literacy Portfolio designed to assist my peers in navigating the professional and technical digital landscape. As a Student Digital Ambassador, I have curated resources across five modules, covering professional branding, technical collaboration, and cyber-safety.
 
 📂 Portfolio Structure
-Module 1: Digital Awareness
-Deliverable: An awareness infographic titled "The Public Perception Roadmap."
 
+Module 1: Digital Awareness
+Deliverable: An awareness infographic titled "The Digital Professionalism Roadmap."
 Focus: Understanding digital footprints and how public profiles influence professional opportunities.
 
 Module 2: Professional Branding
@@ -30,7 +30,7 @@ Technical Skill: Completed Beginner Challenge on HackerRank.
 
 Community Engagement: Digital Literacy Awareness Quiz (Google Form)
 
-Data View: Linked Google Sheet for response tracking.
+Data View: Google Sheet for response tracking. https://forms.gle/yGA2oLUBY2xBTywz8
 
 Module 4: Professional Communication
 Drafts: Formal email templates for assignment extensions and internship inquiries.
@@ -38,7 +38,7 @@ Drafts: Formal email templates for assignment extensions and internship inquirie
 Guidance: Social Media Do's and Don'ts Checklist.
 
 Module 5: Cybercrime & Safety
-Case Study: Analysis of UPI "Request Money" scams targeting students.
+Case Study: Analysis of CyberBullying.
 
 Resource: 8-Point "Stay Safe Online" Prevention Checklist.
 
